@@ -1,2 +1,2 @@
-# hankrank
-HankRank problems solutions
+# Hacker Rank
+HackerRank problem solutions
